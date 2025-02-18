@@ -17,11 +17,10 @@
 
         <nav>
             <ul class="nav">
-                <li> <a href="index.html">Accueil</a></li>
-                <li><a href="Entreprise/interview.html">Interview</a></li>
-                <li><a href="Bruxelles/Bruxelles.html">Bruxelles</a></li>
-                <li><a href="Bruxelles/Galeries.html">Galerie</a></li>
-                <li><a href="Conclusion.html">Conclusion</a></li>
+                <li> <a href="./">Accueil</a></li>
+                <li><a href="?p=aproposView.php">Interview</a></li>
+                <li><a href="?p=histoireView.php">Bruxelles</a></li>
+                <li><a href="?p=contactView.php">Conclusion</a></li>
             </ul>
         </nav>
 

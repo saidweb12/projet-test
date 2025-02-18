@@ -11,16 +11,14 @@
     <header>
         <h1> Bienvenue sur mon site</h1>
       </header>
-<nav>
-       
-    <ul class="nav">
-        <li><a href="index.html">Accueil</a></li>
-        <li><a href="./Entreprise/interview.html">Interview</a></li>
-        <li><a href="./Bruxelles/Bruxelles.html">Bruxelles</a></li>
-        <li><a href="./Bruxelles/Galeries.html">Galerie</a></li>
-        <li><a href="Conclusion.html">Conclusion</a></li>
-    </ul>
-</nav>
+      <nav>
+            <ul class="nav">
+                <li> <a href="./">Accueil</a></li>
+                <li><a href="?p=aproposView.php">Interview</a></li>
+                <li><a href="?p=histoireView.php">Bruxelles</a></li>
+                <li><a href="?p=contactView.php">Conclusion</a></li>
+            </ul>
+        </nav>
 <main>
     
     <h2 class="red"><strong>Conclusion</strong></h2>  

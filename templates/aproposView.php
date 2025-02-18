@@ -14,15 +14,13 @@
         <h1> Bienvenue sur mon site</h1>
       </header>
       <nav>
-          <ul class="nav">
-              <li><a href="../index.html">Accueil</a></li>
-              <li><a href="../Entreprise/interview.html">interview</a></li>
-              <li><a href="Bruxelles.html">Bruxelles</a></li>
-              <li><a href="Galeries.html">Galerie</a></li>
-              <li><a href="../Conclusion.html">Conclusion</a></li>
-              
-          </ul>
-      </nav>
+            <ul class="nav">
+                <li> <a href="./">Accueil</a></li>
+                <li><a href="?p=aproposView.php">Interview</a></li>
+                <li><a href="?p=histoireView.php">Bruxelles</a></li>
+                <li><a href="?p=contactView.php">Conclusion</a></li>
+            </ul>
+        </nav>
     <main>
       <h2>Photos de bruxelles.</h2>
 
