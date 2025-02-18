@@ -7,4 +7,4 @@
                 <li><a href="?p=histoireView">Bruxelles</a></li>
                 <li><a href="?p=contactView">Conclusion</a></li>
             </ul>
-        </nav>
+</nav>

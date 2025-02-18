@@ -46,7 +46,10 @@
 
       <footer> 
 
-        <p>Said-Web 2024</p>
+     <?php
+     include("inc/footerIncView.php");
+
+     ?>
 
       </footer>
     
